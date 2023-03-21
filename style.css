@@ -10,25 +10,25 @@ header {
     height: 69px;
     border-bottom: 1px solid seashell;
     display: fixed;
- }
+}
 
-  .logo {
+.logo {
     height: 50px;
     margin-left: 10px;
 }
 
-  nav {
+nav {
     float: right;
     margin: 10px 10px;
- }
+}
 
-  nav ul li {
+nav ul li {
     display: inline-flex;
     padding: 10px;
     text-decoration: none;
- }
+}
 
-  .main{
+.main{
  background-image: url('https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg');
   height: 700px;
   width: 1200px;
@@ -43,8 +43,7 @@ header {
     text-align: center;
  }
 
- .PrincipalText {
-
+.PrincipalText {
     background-color: black;
  }
 
@@ -83,14 +82,14 @@ p {
 .locations h2 {
     margin: 0px;
     padding-top: 69px;
- }
+}
 
- .locations-container {
+.locations-container {
     display: flex;
     justify-content: center;
-  }
+}
 
-  .box {
+.box {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -100,16 +99,15 @@ p {
     margin: 0 20px;
     opacity: 1;
     
-  }
+}
 
-  .contact {
+.contact {
     text-align: center;
     height: 200px;
     margin-top: 15px;
-  }
+}
 
-  footer {
+footer {
     text-align: left;
     margin-left: 20px;
-  }
-
+}
